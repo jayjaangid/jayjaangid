@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayjaangid
+- 👋 Hi, I’m Jay Jangid
 - 👀 I’m interested in Learn To Coding.
 - 🌱 I’m learning From Everywhere.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jayjaangid/">Jay Jangid</a>
